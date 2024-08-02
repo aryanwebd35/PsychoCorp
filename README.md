@@ -5,11 +5,7 @@
 ## Introduction:
 PsycoCorp is website that connect people with same type of mental illness so that they can talk to them freely about their problmes without the fear of getting judged.Also they can take consultation from therapisits and can post their success story on site on which other user can like and comment , creating a positive environment
 
-## Demo Video Link:
-  <a href="https://drive.google.com/drive/folders/1njIbFDWyxPMvOrRvzgzh185XRycJdA0A?usp=share_link">Demo link</a> for video presentation
-  
-## Presentation Link:
-  <a href="https://drive.google.com/drive/folders/1E8uPl1YgDYtVltX08PP5INkKk-4D5EdU?usp=share_link"> Link </a> for slide presenatation 
+
 
 ## Table Of Contents
 
