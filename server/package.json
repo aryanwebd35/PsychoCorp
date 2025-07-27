@@ -14,8 +14,8 @@
     "mongodb": "^6.7.0",
     "mongoose": "^6.8.2",
     "nodemailer": "^6.9.1",
-    "cors": "^2.8.5",             // ✅ Needed if frontend is on another domain (like Vercel)
-    "dotenv": "^16.0.3",          // ✅ Load .env file (DB_URL, JWT_SECRET, etc.)
-    "multer": "^1.4.5-lts.1"      // ✅ Required if uploading images (you used this in food add route
+    "cors": "^2.8.5",            
+    "dotenv": "^16.0.3",        
+    "multer": "^1.4.5-lts.1"      
   }
 }
