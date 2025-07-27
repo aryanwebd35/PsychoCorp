@@ -22,7 +22,7 @@ const Chat = () =>{
 
      //connect to Socket.io
      useEffect(()=> {
-        socket.current=io("http://localhost:8800");
+        socket.current=io("https://psychocorp-socket.onrender.com");
         // console.log(state._id)
         socket.current.emit("new-user-add",(state._id))
         socket.current.on('get-users',(users) =>{ //users is coming from activeUsers
