@@ -4,7 +4,7 @@
 };*/
 
 module.exports = {
-    MONGOURI: "mongodb+srv://harshsharma311003:ZUZCR6EUYP038YIH@cluster0.7vl6jzn.mongodb.net/mydatabase?retryWrites=true&w=majority",
+    MONGOURI: "mongodb+srv://aryansri078:aryansri078@cluster0.vilhm9t.mongodb.net/mydatabase?retryWrites=true&w=majority",
     JWT_SECRET: "fslkdjfsldfvijay"
 };
 
