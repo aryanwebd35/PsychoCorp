@@ -1,6 +1,6 @@
 const io = require("socket.io")(8800, {
     cors: {
-        origin: 'http://localhost:3000',
+        origin: 'https://psychocorp-client-1.onrender.com',
         methods: ["GET", "POST"],
         credentials:true,
         transports: ['websocket', 'polling']
